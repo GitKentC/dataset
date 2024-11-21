@@ -1,0 +1,33 @@
+# =============================
+# git, venv, and VSCode folder
+# =============================
+.git
+.vscode
+venv
+# =============================
+# large files
+# =============================
+dataset
+dataset_experiment
+*.keras
+*.h5
+*.tflite
+*.js
+*.json
+# =============================
+# archives
+# =============================
+*.7z
+*.zip
+*.rar
+*.tar
+# =============================
+# test files/folders
+# =============================
+test
+*.jpg
+*.png
+*.jpeg
+*.gif
+*.bmp
+*.svg
